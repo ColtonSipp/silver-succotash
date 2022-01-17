@@ -11,3 +11,9 @@
 // THEN I can save my initials and score
 
 var
+
+// WHEN I click the start button, THEN a timer starts and I am presented with a question
+var startGame = function(){
+
+}
+
