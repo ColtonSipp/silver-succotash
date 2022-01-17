@@ -1,0 +1,39 @@
+/* Color Scheme: #F18181 #FOB49D #F1DABB #F8B7B4 #F88B86 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #F88B86;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8b7b4;
+}
+
+.parentContainer {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.promptText {
+    margin: auto;
+    padding: 10px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
